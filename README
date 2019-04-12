@@ -1,3 +1,5 @@
+Android version of trace-cmd. NDK version >= 28 is required. To build the android binaries, just run:
+    ndk-build
 
 Note: The official repositiory for trace-cmd and KernelShark is here:
 
